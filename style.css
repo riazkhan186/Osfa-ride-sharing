@@ -232,7 +232,7 @@ body{
 
 /* services start */
 .services{
-    background-image: url('../../images/services/green-circle.png'), url('../../images/services/small-circle.png');
+    background-image: url('images/services/green-circle.png'), url('images/services/small-circle.png');
     margin: 4% 0 0 0;
     background-size: initial;
     background-repeat: no-repeat;
@@ -315,7 +315,7 @@ body{
 
 /* mobile */
 .mobile{
-    background-image: url('../../images/services/mobile-bg.png');
+    background-image: url('images/services/mobile-bg.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
