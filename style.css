@@ -775,3 +775,11 @@ body{
 .fab:hover{
     background-image: linear-gradient(to right,  #0ba324 , #83d363) ;
 }
+
+
+@media screen and (max-width: 900px)
+{
+    .osfa{
+        display: none;
+    }
+}
